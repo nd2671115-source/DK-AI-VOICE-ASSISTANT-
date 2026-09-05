@@ -1,0 +1,6 @@
+{
+  "name": "DK AI Assistant",
+  "description": "Premium voice and multimodal AI assistant supporting Hindi, Hinglish, and English with real device integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
